@@ -13,7 +13,7 @@
 
 <div class="container mt-5">
     <h1>Matkamootorrataste proovisõidud Eestis</h1>
-    <p>Siit leiad minu kokkuvõtted proovisõitudest erinevate matkamootorratastega. Jälgi mind, kui sind huvitavad kahe ratta seiklused Eesti teedel ja radadel!</p>
+    <p>Siit leiad minu kokkuvõtted proovisõitudest erinevate matkamootorratastega. Jälgi mind, kui sind huvitavad kaherattaliste katseseiklused erinevatel Eesti teedel!</p>
 
     <div class="row">
         <!-- Postitus 1 -->
